@@ -2,4 +2,4 @@
 
 ## Image Layout
 
-![App Screenshot](./Screenshot_20250525_133497.png)
+![App Screenshot](./images/Screenshot_20250525_133497.png)
